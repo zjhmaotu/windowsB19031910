@@ -21,3 +21,4 @@ dst[len]='\0' ;
 
 return dst;
 }
+//远程修改
