@@ -22,3 +22,5 @@ dst[len]='\0' ;
 return dst;
 }
 //本地修改
+
+
